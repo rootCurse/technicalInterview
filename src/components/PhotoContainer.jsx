@@ -11,7 +11,6 @@ import {
   ModalOverlay,
   ModalContent,
 } from '@chakra-ui/react';
-import { Photo } from '../components/Photo';
 import React from 'react';
 import { handleForm } from './handleForm';
 
